@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0401e6cb-697b-44f7-918a-3a9a63357cfc">
+  <name>Конфигурация</name>
+  <comment></comment>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="f254960c-2a0f-4c69-ba47-71fa71f7c750"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="c429ef3c-25d7-4eb5-bf40-bd33e60bc6e1"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="268da995-35c2-4623-895c-fe3577434880"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="4b3e5ec8-beb4-4740-a172-f2db06882793"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="74e13648-9a73-4c66-b102-9132cf91e570"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="990491ca-b0f6-41ce-8f2e-053c053be746"/>
+  <namePrefix></namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.11</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor></vendor>
+  <version></version>
+  <updateCatalogAddress></updateCatalogAddress>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousExtensionAndAddInCallUseMode>DontUse</synchronousExtensionAndAddInCallUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.10</compatibilityMode>
+  <languages uuid="d67f883d-ab62-4369-ab91-eae790f6a297">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <comment></comment>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Подсистема1</subsystems>
+  <commonForms>CommonForm.Форма</commonForms>
+  <catalogs>Catalog.Ячейки</catalogs>
+  <informationRegisters>InformationRegister.Связи</informationRegisters>
+  <informationRegisters>InformationRegister.Граф</informationRegisters>
+</mdclass:Configuration>
